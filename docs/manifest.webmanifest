@@ -1,0 +1,23 @@
+{
+  "id": "./",
+  "name": "Avalon.Shifter — RU ↔ EN Thought-Flow Aligner",
+  "short_name": "Avalon.Shifter",
+  "description": "Offline RU <-> EN keyboard layout aligner for Web, iOS, Android, Windows, Linux and macOS.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111214",
+  "theme_color": "#111214",
+  "icons": [
+    {
+      "src": "./icons/app-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/app-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
