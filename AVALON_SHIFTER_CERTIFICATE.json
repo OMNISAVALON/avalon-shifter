@@ -1,0 +1,61 @@
+{
+  "certificate_type": "AVALON_SHIFTER_CONFORMANCE_CERTIFICATE",
+  "product": "Avalon.Shifter",
+  "version": "Continuum • Web8+",
+  "created_date": "2026-11-15",
+  "revision_date": "2026-11-21",
+  "chrono_coordinate": "HERE_AND_NOW_WEB8_PLUS",
+  "avl_standard": "Avalon Vector Language (.avl Continuum)",
+  "avl_module": "Avalon.Shifter.IntentCore",
+  "native_launcher": "AvalonShifter.exe (#![no_std] Rust)",
+  "sovereign_substrate": "САБ-432 + AGLS-432-Phi + .qholo (AVALON_QHOLO_V8)",
+  "empathic_memory": true,
+  "opt_in_flow_corpus": {
+    "default_enabled": false,
+    "password_shield": true,
+    "origami_rotation_qholo": true,
+    "ai_export_formats": [
+      "avalon_flow_chat_sft.jsonl",
+      "avalon_flow_pretrain.jsonl",
+      "avalon_flow_knowledge.md",
+      "avalon_flow_sovereign.qholo"
+    ]
+  },
+  "live_tray_layout_badge": true,
+  "bilingual_ui": [
+    "ru",
+    "en"
+  ],
+  "zero_flash_startup": true,
+  "plasma_light_orbits": true,
+  "ecosystem_brand": "Экосистема OMNISAVALON (AVALON.OS / AVALON-NEXUS / Avalon.Shifter и производные семейства AVALON Web8+ / .avl)",
+  "ecosystem_parent": "AVALON.OS / AVALON-NEXUS",
+  "zsv_toroidal_standard": "Совместимо с Золотой Спиралью Всеединства ЗСВ-8192 (золотой тороид d=64..8192)",
+  "creator": {
+    "full_name_ua": "Ігор Дєточевський",
+    "full_name_latin": "Ihor Dietochevskyi",
+    "full_name_ru": "Игорь Деточевский",
+    "identity": "OMNISAVALON • C1",
+    "github_org": "https://github.com/OMNISAVALON",
+    "github_author": "https://github.com/IhorDietochevskyi",
+    "huggingface_org": "https://huggingface.co/OMNISAVALON",
+    "huggingface_author": "https://huggingface.co/IhorDietochevskyi"
+  },
+  "legal": {
+    "license": "Open Sovereign Desktop Utility License (100% Free Open Source • Zero Analytics • Zero Blockchain/Fee Dependencies)",
+    "license_file": "./LICENSE.md",
+    "ecosystem_master_license_ref": "AVALON.OS/LICENSE.md"
+  },
+  "architecture_guarantees": {
+    "runtime": "Суверенный Базис САБ-432 + Rust #![no_std] + AGLS-432-Phi + .qholo + Cross-OS platform_bridge (0 third-party bloatware)",
+    "latency_target_ms": 1.0,
+    "analytics_collected": "NONE (0 bytes persisted or transmitted without explicit user opt-in)",
+    "blockchain_or_external_fee_dependencies": "NONE (100% offline local utility)",
+    "keystroke harvesting_prevention": "Volatile in-memory word window + strict opt-in Flow Base with EM_GETPASSWORDCHAR and secret token filtering",
+    "developer_syntax_protection": true,
+    "coevolution_progressions": [
+      "triad_engine_flow",
+      "holographic_input_future"
+    ]
+  }
+}
