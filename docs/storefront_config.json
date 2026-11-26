@@ -1,0 +1,54 @@
+{
+  "wave": "WAVE_1_AVALON_SHIFTER",
+  "product": "Avalon.Shifter",
+  "creator": "Ihor Dietochevskyi (Ігор Дєточевський • OMNISAVALON)",
+  "primary_currencies": [
+    "EUR",
+    "CZK"
+  ],
+  "timers_enabled": false,
+  "links": {
+    "github_org": "https://github.com/OMNISAVALON",
+    "github_author": "https://github.com/IhorDietochevskyi",
+    "huggingface_org": "https://huggingface.co/OMNISAVALON",
+    "huggingface_dataset": "https://huggingface.co/datasets/OMNISAVALON/avalon-shifter",
+    "huggingface_space": "https://huggingface.co/spaces/OMNISAVALON/avalon-shifter",
+    "youtube": "https://www.youtube.com/@OMNISAVALON",
+    "instagram": "https://www.instagram.com/omnisavalon/",
+    "support_eur_czk": "https://github.com/sponsors/IhorDietochevskyi"
+  },
+  "platforms": {
+    "windows_portable": {
+      "archive_name": "Avalon.Shifter-Windows-Portable.zip",
+      "size_mb": 8.41,
+      "agls_432_phi": "14d11604e6fbb56a3609452a2aa13533b1d068282bdc5a02b8301de690b8a0d9",
+      "hf_url": "https://huggingface.co/datasets/OMNISAVALON/avalon-shifter/resolve/main/dist/Avalon.Shifter-Windows-Portable.zip",
+      "github_url": "https://github.com/OMNISAVALON/avalon-shifter/releases/latest/download/Avalon.Shifter-Windows-Portable.zip"
+    },
+    "linux_universal": {
+      "archive_name": "Avalon.Shifter-Linux-Universal.zip",
+      "size_mb": 0.095,
+      "agls_432_phi": "83ddccf680177743672829d3b960b48adee1d18ab9f15f9d085183230b65749f",
+      "hf_url": "https://huggingface.co/datasets/OMNISAVALON/avalon-shifter/resolve/main/dist/Avalon.Shifter-Linux-Universal.zip",
+      "github_url": "https://github.com/OMNISAVALON/avalon-shifter/releases/latest/download/Avalon.Shifter-Linux-Universal.zip"
+    },
+    "macos_universal": {
+      "archive_name": "Avalon.Shifter-macOS-Universal.zip",
+      "size_mb": 0.095,
+      "agls_432_phi": "54919c20233fe820f2117cd1a5930fc580b3d04c5cf4db8afa512876bd6b37aa",
+      "hf_url": "https://huggingface.co/datasets/OMNISAVALON/avalon-shifter/resolve/main/dist/Avalon.Shifter-macOS-Universal.zip",
+      "github_url": "https://github.com/OMNISAVALON/avalon-shifter/releases/latest/download/Avalon.Shifter-macOS-Universal.zip"
+    },
+    "browser_extension_mv3": {
+      "archive_name": "Avalon.Shifter-Browser-Extension-MV3.zip",
+      "size_mb": 0.025,
+      "agls_432_phi": "eddc7fb6c82bd7111b79591d4222244cafc7d04ded39cf691dca51811efcd27b",
+      "hf_url": "https://huggingface.co/datasets/OMNISAVALON/avalon-shifter/resolve/main/dist/Avalon.Shifter-Browser-Extension-MV3.zip",
+      "github_url": "https://github.com/OMNISAVALON/avalon-shifter/releases/latest/download/Avalon.Shifter-Browser-Extension-MV3.zip"
+    },
+    "web_pwa": {
+      "manifest": "./manifest.webmanifest",
+      "offline_ready": true
+    }
+  }
+}
