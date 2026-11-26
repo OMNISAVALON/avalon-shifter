@@ -1,0 +1,88 @@
+{
+  "package": "Avalon.Shifter.Wave1.Source",
+  "wave": "WAVE_1_AVALON_SHIFTER",
+  "version": "Continuum • 432 Гц",
+  "spdx_license": "LicenseRef-OMNISAVALON-Shifter-Continuum-1.0",
+  "built_date": "2026-11-26",
+  "creator": "Ігор Дєточевський • Игорь Деточевский • Ihor Dietochevskyi (OMNISAVALON • C1)",
+  "privacy_posture": "Zero Tracking • Zero Analytics • Zero Network Calls • Strict Opt-In AI Flow Base",
+  "files_count": 15,
+  "files": [
+    {
+      "path": "app.py",
+      "size_bytes": 98601,
+      "agls_432_phi": "7add96f4442c5365ee7ae05dac07a0b50a807dafe7a542d16611ecfb88a5bbb1"
+    },
+    {
+      "path": "AVALON_SHIFTER_CERTIFICATE.json",
+      "size_bytes": 2807,
+      "agls_432_phi": "59c82e387e0366bd5111f533b07e1ee1755dbe953693ecc7938a18b9ecb1b6c8"
+    },
+    {
+      "path": "empathic_memory.py",
+      "size_bytes": 14469,
+      "agls_432_phi": "20bd69f9f9d31f411c9405cfac67d25e0a5e2134ca79efb2d025315770cf595b"
+    },
+    {
+      "path": "flow_corpus.py",
+      "size_bytes": 29632,
+      "agls_432_phi": "7a26f246a43c33fcddd45b170bf8849b017ac3ebcad58632a02ac7f13a56d8cd"
+    },
+    {
+      "path": "i18n.py",
+      "size_bytes": 25471,
+      "agls_432_phi": "e44ae6c286cc4f5cf598b3d5f6986e197ddffd5ece1592189d42c9fd170eaa18"
+    },
+    {
+      "path": "icon_gen.py",
+      "size_bytes": 32044,
+      "agls_432_phi": "f2ffc3204300c862edf85716e726461b5065e808bcf433bf7df60816bfe0c613"
+    },
+    {
+      "path": "LICENSE.md",
+      "size_bytes": 12328,
+      "agls_432_phi": "6f48dd3d3e6167897fed195a97850a7f13378f30897bc58c0300acecb4de872b"
+    },
+    {
+      "path": "native/avalon_shifter_launcher.rs",
+      "size_bytes": 16580,
+      "agls_432_phi": "a3ae914295aad81aeddf17988d875583474816d63ab5e93648cd28dd2b7ff339"
+    },
+    {
+      "path": "platform_bridge.py",
+      "size_bytes": 11473,
+      "agls_432_phi": "7a721511ade70d38e70fac17471214f1fa40ab1968b8b5799d5cb21dd467bd7a"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 10434,
+      "agls_432_phi": "3aa7917b7029ad7d92e13cf80ac3e4dc7a1b8ae89ededfc38d53211d8f0ca465"
+    },
+    {
+      "path": "README_EN.md",
+      "size_bytes": 4796,
+      "agls_432_phi": "f724cba9a2a904e80d2da0968d45bedcf457860541f19b9b904cb17636eb6469"
+    },
+    {
+      "path": "shifter_core.py",
+      "size_bytes": 43640,
+      "agls_432_phi": "47d2a1487f1f58b216cfe2d88b4a56e186f38cfc66353531c272f24ea4e9b60c"
+    },
+    {
+      "path": "shifter_intent.avl",
+      "size_bytes": 2247,
+      "agls_432_phi": "be3f5d48513682c05124487264e080389d57cfada075f0bb85f463f01b384fd6"
+    },
+    {
+      "path": "triad_engine.py",
+      "size_bytes": 27546,
+      "agls_432_phi": "ac4f00e6af2460e3676aeedef602636e7e3d3a8991bd2efce586536b01f43935"
+    },
+    {
+      "path": "win32_bridge.py",
+      "size_bytes": 55851,
+      "agls_432_phi": "2ce10612a50d4fbc738e9146b96d59d98abd326f0a8d1571a95795788f4f1a55"
+    }
+  ],
+  "bundle_agls_seal": "ff4ea11bda1ae68891173ef6d71ca3557e0bad34313e8a132810af3d3607da4d"
+}
